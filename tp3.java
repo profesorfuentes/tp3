@@ -7,7 +7,7 @@ class tp3
 
         Vector<String> alumnos= new Vector<>();
 
-        //TODO Agrega tu nombre
+        //TODO Agrega una línea con tu nombre y apellido
         alumnos.add("Nombre Apellido");
 
         System.out.println("Alumnos " + alumnos);        
