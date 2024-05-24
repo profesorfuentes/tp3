@@ -9,7 +9,8 @@ class tp3
 
         //TODO Agrega una línea con tu nombre y apellido
         alumnos.add("Santiago Beron");
+        alumnos.add("Thomas Fazio");
 
-        System.out.println("Alumnos " + alumnos);        
+      System.out.println("Alumnos " + alumnos);        
     }
 };
