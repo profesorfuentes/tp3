@@ -15,6 +15,8 @@ class tp3
         alumnos.add("Mia Valentina Inzunza");
         alumnos.add("Santiago Beron");
         alumnos.add("Thomas Fazio");
+        alumnos.add("Alexander Castro Ruiz");
+        alumnos.add("Joaquin Hensel");
 
       System.out.println("Alumnos " + alumnos);        
     }
