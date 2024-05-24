@@ -9,6 +9,7 @@ class tp3
 
         //TODO Agrega una línea con tu nombre y apellido
         alumnos.add("Nombre Apellido");
+        alumnos.add("Luz Arancibia");
 
         System.out.println("Alumnos " + alumnos);        
     }
