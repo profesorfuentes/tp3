@@ -8,6 +8,10 @@ class tp3
         Vector<String> alumnos= new Vector<>();
 
         //TODO Agrega una línea con tu nombre y apellido
+        alumnos.add("Alan Pinto");
+        alumnos.add("Martin Rios");
+        alumnos.add("Matias Djibilian Corderi");
+        alumnos.add("Elian Guzman");
         alumnos.add("Alejandro villar");
         alumnos.add("Luz Arancibia");
         alumnos.add("Federico Lafflitto");
@@ -17,6 +21,7 @@ class tp3
         alumnos.add("Thomas Fazio");
         alumnos.add("Alexander Castro Ruiz");
         alumnos.add("Joaquin Hensel");
+        alumnos.add("Heidy Titirco");
 
       System.out.println("Alumnos " + alumnos);        
     }
