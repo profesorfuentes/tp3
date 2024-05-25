@@ -20,7 +20,6 @@ class tp3
         alumnos.add("Santiago Beron");
         alumnos.add("Thomas Fazio");
         alumnos.add("Heidy Titirco");
-        alumnos.add("Maximo Kaled De Santi");
 
       System.out.println("Alumnos " + alumnos);        
     }
