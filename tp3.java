@@ -22,7 +22,7 @@ class tp3
         alumnos.add("Alexander Castro Ruiz");
         alumnos.add("Joaquin Hensel");
         alumnos.add("Heidy Titirco");
-
+        alumnos.add("yamil taquichiri");
       System.out.println("Alumnos " + alumnos);        
     }
 };
