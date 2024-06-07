@@ -23,6 +23,7 @@ class tp3
         alumnos.add("Joaquin Hensel");
         alumnos.add("Heidy Titirco");
         alumnos.add("yamil taquichiri");
+        alumnos.add("Matias Benito");
       System.out.println("Alumnos " + alumnos);        
     }
 };
