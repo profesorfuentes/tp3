@@ -24,6 +24,7 @@ class tp3
         alumnos.add("Heidy Titirco");
         alumnos.add("yamil taquichiri");
         alumnos.add("Matias Benito");
+        alumnos.add("Yoel Fernandez");
       System.out.println("Alumnos " + alumnos);        
     }
 };
